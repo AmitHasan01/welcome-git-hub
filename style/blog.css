@@ -1,7 +1,28 @@
-.f_header{
+.f-header{
     color: yellow;
     background-color: blueviolet;
     text-align: center;
     border: 5px solid #481e7094;
     box-shadow: 5px 5px 15px blueviolet;
+    margin-bottom: 20px;
+    margin-left:90px ;
+    margin-right: 250px;
+    border-radius: 0 20px;
+
+}
+#g{
+    border-radius: 10px;
+}
+.f-div{
+    background-color: #130a91;
+    color: #e4e41b;
+    margin-top:  40px;
+    padding:5px ;
+    padding-left: 100px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px #16169c;
+    margin-right: 300px;
+    margin-left: 150px;
+    
+
 }
